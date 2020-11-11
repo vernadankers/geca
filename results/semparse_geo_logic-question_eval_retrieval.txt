@@ -1,0 +1,11 @@
+eval.0.err - test accuracy: 0.75
+eval.1.err - test accuracy: 0.75
+eval.2.err - test accuracy: 0.74
+eval.3.err - test accuracy: 0.78
+eval.4.err - test accuracy: 0.77
+eval.5.err - test accuracy: 0.75
+eval.6.err - test accuracy: 0.73
+eval.7.err - test accuracy: 0.72
+eval.8.err - test accuracy: 0.73
+eval.9.err - test accuracy: 0.77
+0.75+/-0.02
